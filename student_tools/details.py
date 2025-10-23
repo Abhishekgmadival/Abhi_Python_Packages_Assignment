@@ -1,5 +1,5 @@
 # details.py - display student name and course
 
-def student_info(name, course):
+def student_info(Abhishek, Data Analyst):
     """Return formatted student information string."""
-    return f"Student: {name} | Course: {course}"
+    return f"Student: {Abhishek} | Course: {Data Analyst}"
