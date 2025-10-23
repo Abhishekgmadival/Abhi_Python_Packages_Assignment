@@ -2,8 +2,8 @@ from student_tools import marks, grades, details
 
 def demo():
     # sample student data
-    name = "Rahul Kumar"
-    course = "Data Science"
+    name = "Abhishek"
+    course = "Data Analyst"
     marks_list = [88, 92, 79, 85, 90]  # five subjects
 
     info = details.student_info(name, course)
